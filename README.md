@@ -1,138 +1,88 @@
-# 👋 Hi, I'm **Mufassir Shah**
+<!-- Typing Animation -->
 
-### 💻 Django Backend Developer | Python Enthusiast | API Engineer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=3000\&pause=1000\&color=00BFFF\&center=true\&vCenter=true\&width=750\&lines=Hi+%F0%9F%91%8B%2C+I'm+Mufassir+Shah;Django+Backend+Developer;Python+%26+API+Engineer;Building+Scalable+Web+Applications;Passionate+About+Clean+and+Efficient+Code!)](https://git.io/typing-svg)
 
-📍 Islamabad, Pakistan
-📧 [mufassirshah3@gmail.com](mailto:mufassirshah3@gmail.com)
-🔗 [LinkedIn](https://linkedin.com/in/mufassir-shah-a39ab1250) • [Portfolio](https://mufassirshah.pythonanywhere.com) • [GitHub](https://github.com/SyedMufassirShah)
-
----
-
-## 🧩 **About Me**
-
-I’m a **Django Backend Developer** with a passion for designing scalable and secure web applications.
-As a recent **Computer Science graduate (CGPA: 3.62)** from **Kohat University of Science and Technology**, I’ve built production-grade systems and backend solutions through hands-on experience at NEP-NIC startups.
-
-I specialize in **API development, authentication systems, and backend optimization**, and I love solving complex problems using Python and Django REST Framework (DRF).
-
-💡 *My philosophy:* “Code should be clean, efficient, and built to scale.”
+<h1 align="center">🚀 Welcome to My GitHub</h1>
+<h3 align="center">Django Backend Developer | Python & API Engineer | Backend Optimization Enthusiast</h3>
 
 ---
 
-## ⚙️ **Tech Stack & Skills**
-
-### 🐍 Languages
-
-* Python | JavaScript | HTML | CSS
-
-### 🧱 Frameworks & Tools
-
-* Django | Django REST Framework (DRF) | React | SimpleJWT | Postman | Insomnia
-
-### 🗄️ Databases
-
-* MySQL | SQLite
-
-### 🧠 Other Skills
-
-* API Development | Caching | Pagination | Role-Based Access Control | Optimization
-* Communication | Team Collaboration | Agile Mindset
+💼 **About Me**
+I’m **Mufassir Shah**, a **Django Backend Developer** from **Islamabad, Pakistan**, passionate about crafting secure, scalable, and efficient web applications.
+With a strong foundation in **Python, Django, and REST APIs**, I focus on backend logic, performance tuning, and database optimization.
 
 ---
 
-## 🚀 **Highlighted Projects**
-
-### 🔬 **OncoXpert – AI-Powered Multi-Cancer Detection Platform**
-
-Developed the backend for an AI-driven medical platform using **Django + DRF**, integrating ML models for real-time cancer prediction and case management.
-
-* Implemented **JWT authentication**, **caching**, and **throttling** for secure and scalable APIs.
-* Optimized MySQL queries to reduce latency and improve server efficiency.
-* Collaborated on data flow architecture with a cross-functional academic team.
-
-🔗 *Tech:* Django, DRF, MySQL, SimpleJWT, Postman
+* 🔭 Working on **backend systems & RESTful APIs** using Django and DRF
+* 🌱 Learning **cloud deployment, Docker, and scalable microservices**
+* 💬 Ask me about **Django, REST APIs, authentication, and database design**
+* 📄 [Download My CV](https://github.com/SyedMufassirShah/SyedMufassirShah/blob/main/MufassirShah_CV.pdf)
+* 🌐 [Portfolio](https://mufassirshah.pythonanywhere.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/mufassir-shah-a39ab1250)
+* 📧 [Email Me](mailto:mufassirshah3@gmail.com)
 
 ---
 
-### 🛍️ **ScentedDreams – Custom eCommerce Platform**
-
-Developed a complete **eCommerce system** using **Django & React**, supporting dynamic product listings and payment integration.
-
-* Delivered a fully responsive UI and automated order management system.
-* Improved load time and backend API efficiency by 30%.
-
-🔗 *Tech:* Django, React, REST API, MySQL
-
----
-
-### 🈶 **Hanzai – Language Learning Platform**
-
-Built a **React-based responsive website** for a startup teaching Chinese to Urdu speakers.
-
-* Created an intuitive UI for learners and enhanced site engagement.
-
-🔗 *Tech:* React, Django, HTML, CSS
+<h3 align="center">🛠 Tech Stack</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="40" height="40" alt="Django"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+</p>
 
 ---
 
-## 🎓 **Education**
-
-**Bachelor of Science in Computer Science (BSCS)**
-*Kohat University of Science and Technology (KUST), 2021 – 2025*
-
-* CGPA: 3.62 / 4.00
-* **Final Year Project:** *OncoXpert – AI-Powered Multi-Cancer Detection Platform*
+<h3 align="center">📊 GitHub Analytics</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SyedMufassirShah&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMufassirShah&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 ---
 
-## 🏆 **Certifications & Achievements**
+<h3 align="center">🔥 GitHub Streak & Activity</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedMufassirShah&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
-🎓 **Certifications**
-
-* Meta Backend Developer Specialization
-* Django Web Framework
-* Introduction to Databases for Backend Development
-* Programming with Python
-
-🏅 **Awards**
-
-* Recipient of **Prime Minister’s Laptop Scheme (2023)** – Government of Pakistan
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedMufassirShah&theme=tokyo-night" alt="Activity Graph"/>
+</p>
 
 ---
 
-## 💼 **Professional Experience**
-
-**Web Developer (Intern)** | *ScentedDreams | NEP-NIC KUST Startup*
-📆 Mar 2023 – Sep 2023
-
-* Built and deployed a Django-based eCommerce solution with integrated payment systems.
-
-**Web Developer (Intern)** | *Hanzai | NEP-NIC KUST Startup*
-📆 Sep 2022 – Feb 2023
-
-* Designed and deployed a multilingual React-based web platform.
-
-**Management Intern** | *NEP-NIC KUST Startup*
-📆 Feb 2022 – Aug 2022
-
-* Supported operations and event coordination for multiple startup incubations.
+<h3 align="center">🚀 Featured Projects</h3>
+<p align="center">
+  <a href="https://mufassirshah.pythonanywhere.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/SyedMufassirShah" target="_blank">
+    <img src="https://img.shields.io/badge/All%20Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects"/>
+  </a>
+</p>
 
 ---
 
-## 📄 **Resume**
-
-📥 [**Download My CV (PDF)**](https://github.com/SyedMufassirShah/SyedMufassirShah/blob/main/MufassirShah_CV.pdf)
-
----
-
-## 🌐 **Let's Connect**
-
-💌 Email: [mufassirshah3@gmail.com](mailto:mufassirshah3@gmail.com)
-💼 LinkedIn: [linkedin.com/in/mufassir-shah-a39ab1250](https://linkedin.com/in/mufassir-shah-a39ab1250)
-💻 Portfolio: [mufassirshah.pythonanywhere.com](https://mufassirshah.pythonanywhere.com)
+<h3 align="center">🌐 Connect with Me</h3>
+<p align="center">
+<a href="mailto:mufassirshah3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mufassir-shah-a39ab1250/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/SyedMufassirShah"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://mufassirshah.pythonanywhere.com"><img src="https://img.shields.io/badge/Portfolio-FF7F50?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
 
 ---
 
-⭐️ *“Continuous learning and clean code are my professional signatures.”*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SyedMufassirShah&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
+</p>
 
 ---
+
+⭐ **"Clean Code, Clear Mind — Building Scalable Backends with Purpose."**
