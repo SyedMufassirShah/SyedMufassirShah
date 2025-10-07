@@ -26,7 +26,7 @@ With a strong foundation in **Python, Django, and REST APIs**, I focus on backen
 <h3 align="center">🛠 Tech Stack</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="40" height="40" alt="Django"/>
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg](https://www.djangoproject.com/)" width="40" height="40" alt="Django"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
