@@ -14,7 +14,7 @@ With a strong foundation in **Python, Django, and REST APIs**, I focus on backen
 ---
 
 * 🔭 Working on **backend systems & RESTful APIs** using Django and DRF
-* 🌱 Learning **cloud deployment, Docker, and scalable microservices**
+* 🌱 Learning more about **cloud deployment and backend optimization**
 * 💬 Ask me about **Django, REST APIs, authentication, and database design**
 * 📄 [Download My CV](https://github.com/SyedMufassirShah/SyedMufassirShah/blob/main/MufassirShah_CV.pdf)
 * 🌐 [Portfolio](https://mufassirshah.pythonanywhere.com)
@@ -26,7 +26,7 @@ With a strong foundation in **Python, Django, and REST APIs**, I focus on backen
 <h3 align="center">🛠 Tech Stack</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg](https://www.djangoproject.com/)" width="40" height="40" alt="Django"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
@@ -71,10 +71,10 @@ With a strong foundation in **Python, Django, and REST APIs**, I focus on backen
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-<a href="mailto:mufassirshah3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mufassir-shah-a39ab1250/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/SyedMufassirShah"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://mufassirshah.pythonanywhere.com"><img src="https://img.shields.io/badge/Portfolio-FF7F50?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:mufassirshah3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mufassir-shah-a39ab1250/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/SyedMufassirShah"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://mufassirshah.pythonanywhere.com"><img src="https://img.shields.io/badge/Portfolio-FF7F50?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
