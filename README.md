@@ -1,5 +1,7 @@
 <!-- Typing Animation -->
 
+<!-- Typing Animation -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=3000\&pause=1000\&color=00BFFF\&center=true\&vCenter=true\&width=750\&lines=Hi+%F0%9F%91%8B%2C+I'm+Mufassir+Shah;Django+Backend+Developer;Python+%26+API+Engineer;Building+Scalable+Web+Applications;Passionate+About+Clean+and+Efficient+Code!)](https://git.io/typing-svg)
 
 <h1 align="center">🚀 Welcome to My GitHub</h1>
